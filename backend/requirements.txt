@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+playwright
+supabase
+python-dotenv
+pydantic
+httpx
+beautifulsoup4
+google-generativeai
+google-generativeai
