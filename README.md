@@ -25,13 +25,15 @@ Key Features
 
 
 Tech Stack
+
 *Frontend:
 React + Vite
 TailwindCSS (styling)
 Supabase (authentication)
 React Router (navigation)
 
-Backend:
+*Backend:
+
 FastAPI (Python web framework)
 Supabase (database & auth)
 Google Generative AI API (Gemini)
@@ -39,7 +41,7 @@ BeautifulSoup4 (web scraping)
 Playwright (browser automation)
 SQLAlchemy (ORM)
 
-Project Structure
+*Project Structure
 How It Works
 User Signs In → Google authentication via Supabase
 Search Medicines → Backend scrapes pharmacy prices
