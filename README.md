@@ -2,10 +2,12 @@
 MedPrice AI is a full-stack web application that helps users compare medicine prices across multiple pharmacy platforms with AI-powered insights.
 
 Key Features
+
 ✅ Medicine Price Comparison
 #Search and compare drug prices across different pharmacies
 #Real-time price scraping from multiple pharmacy platforms
 #Detailed price analysis and comparison tables
+
 
 ✅ AI-Powered Chatbot
 #Google Generative AI (Gemini) integration
@@ -13,10 +15,12 @@ Key Features
 #Drug interaction checking
 #Intelligent price suggestions
 
+
 ✅ User Authentication
 #Google Sign-In via Supabase
 #Secure user sessions
 #User data persistence
+
 
 ✅ Prescription Management
 #Upload and store prescriptions
@@ -25,7 +29,6 @@ Key Features
 
 
 Tech Stack
-
 *Frontend:
 React + Vite
 TailwindCSS (styling)
@@ -33,7 +36,6 @@ Supabase (authentication)
 React Router (navigation)
 
 *Backend:
-
 FastAPI (Python web framework)
 Supabase (database & auth)
 Google Generative AI API (Gemini)
