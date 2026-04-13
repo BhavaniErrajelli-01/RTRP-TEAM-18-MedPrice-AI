@@ -28,12 +28,15 @@ Key Features
 #Track medication history
 
 
-Tech Stack
+###Tech Stack
+
+
 *Frontend:
 React + Vite
 TailwindCSS (styling)
 Supabase (authentication)
 React Router (navigation)
+
 
 *Backend:
 FastAPI (Python web framework)
@@ -43,6 +46,7 @@ BeautifulSoup4 (web scraping)
 Playwright (browser automation)
 SQLAlchemy (ORM)
 
+
 *Project Structure
 How It Works
 User Signs In → Google authentication via Supabase
@@ -51,6 +55,7 @@ View Comparisons → Shows prices from multiple pharmacies
 AI Chatbot → Get recommendations and information
 Manage Prescriptions → Upload and track prescriptions
 Set Reminders → Get notifications for medications
+
 
 Demo Endpoints
 🏠 Frontend: http://localhost:5173
